@@ -11,3 +11,5 @@ Esse projeto foi desenvolvido durante a semana front-end da DIO (Digital Inovati
 - HTML
 - CSS
 - JavaScript
+
+<b>Link da aplicação online:</b> <a>https://filipelimavaz-strangerthings.netlify.app/</a>
